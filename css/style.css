@@ -1,0 +1,89 @@
+
+*{
+	background-repeat: no-repeat;
+	padding: 0;
+	margin: 0;
+}
+div{
+	display: block;
+}
+html, body{
+  width: 100%;
+  height: 100%;
+  font-family: 'Gamja Flower';
+  font-size: 18px;
+  color: #222;
+
+}
+.container footer-cotainer{
+	width: 1500px;
+	margin:auto;
+}
+.navbar{
+  background-color:rgb(red) !important;
+}
+.navbar li a{
+  color: white !important;
+}
+.navbar li a:hover{
+  color: black !important;
+}
+.carousel-inner img{
+	width: 100%;
+
+}
+.carousel-caption{
+	position: absolute;
+}
+.fs1{
+	font-size: 29px;
+}
+.carousel-layout{
+	background: #fff;
+	padding: 15px;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.card{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	background-color: #fff;
+	background-clip: border-box;
+	border: 1px solid rgba(0,0,0,.125);
+	border-radius: .25rem;
+}
+.fn2{
+	font-size: 15px;
+}
+.fn3{
+	font-size: 13px;
+}
+.container footer-container
+{
+	background-color: #2c2c2c !important;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: #2c2c2c;
+}
+.tt1{
+	color:#8b8b8b !important;
+}
+.navbar-brand{
+	margin-left:150px;
+}
+.card-text{
+	text-decoration: line-through;
+	font-size: 13px;
+}
+.card-body{
+	font-size: 15px;
+}
+.card-title{
+	font-size: 18px;
+}
